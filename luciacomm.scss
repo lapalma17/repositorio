@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #c8a2c8; /* Fondo color lila */
+}
+
+#letter-display {
+    font-size: 100px;
+    color: #ffffff; /* Letras blancas */
+    user-select: none; /* Deshabilita la selección de texto */
+}
